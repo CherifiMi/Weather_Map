@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="test" format="color"/>
+    <attr name="back" format="color"/>
+    <attr name="main_color" format="color"/>
+    <attr name="text_color" format="color"/>
+    <attr name="small_text_color" format="color"/>
+
+    <attr name="icon1" format="reference"/>
+    <attr name="icon2" format="reference"/>
+    <attr name="icon3" format="reference"/>
+    <attr name="icon4" format="reference"/>
+    <attr name="top" format="reference"/>
+    <attr name="bottom" format="reference"/>
+
+    <attr name="theme_name" format="string" />
+</resources>

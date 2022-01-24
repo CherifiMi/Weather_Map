@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WeatherMap" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#030303</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#030303</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <!-- Customize your theme here. -->
+        <item name="back">#030303</item>
+
+        <item name="main_color">@color/black0</item>
+        <item name="text_color">@color/white0</item>
+        <item name="small_text_color">@color/gray0</item>
+        <item name="icon1">@drawable/moon</item>
+        <item name="icon2">@drawable/sun_w</item>
+        <item name="icon3">@drawable/wind_w</item>
+        <item name="icon4">@drawable/tem_w</item>
+
+        <item name="top">@drawable/top0</item>
+        <item name="bottom">@drawable/bottom0</item>
+
+        <item name="theme_name">dark</item>
+    </style>
+</resources>
