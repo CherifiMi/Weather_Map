@@ -2,7 +2,7 @@
 
 <p align="center">  
   
-  🌏 This app gives you daily data about the weather in your location, thaks the longitude and latitude from the weather Api and sends it to the mapBox Api to give you a map of your location
+  🌏 This app gives you daily data about the weather in your location, tacks the longitude and latitude from the weather Api and sends it to the mapBox Api to give you a map of your location
 </p>
 </br>
 
